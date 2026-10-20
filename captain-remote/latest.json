@@ -1,0 +1,20 @@
+{
+    "schema":  1,
+    "build":  1475355,
+    "version":  "0.2.0",
+    "min_supported_build":  1,
+    "notes":  "Phone player: controls hide after 4 seconds, smaller info panel.",
+    "published_at":  "2026-10-20T04:05:19Z",
+    "apk":  {
+                "arm64-v8a":  {
+                                  "url":  "https://daz224.github.io/captain-apps-releases/captain-remote/CaptainRemote-1473355-arm64-v8a.apk",
+                                  "sha256":  "79305567fb6916c62f0d21bc33cfe381db1b08d5bb769056fc1905fc95c9db5c",
+                                  "size":  48719636
+                              },
+                "armeabi-v7a":  {
+                                    "url":  "https://daz224.github.io/captain-apps-releases/captain-remote/CaptainRemote-1473355-armeabi-v7a.apk",
+                                    "sha256":  "433abfc39142b1c5e53067477d78e567b0465e8fd07f988a2248a47e69e3c2e1",
+                                    "size":  44523910
+                                }
+            }
+}
